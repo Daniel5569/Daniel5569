@@ -1,4 +1,4 @@
-# Daniel5569
+# Daniel5569 — AI Infrastructure Portfolio
 
 Full-Stack AI Infrastructure Engineer focused on asynchronous agent systems, distributed runtimes, and production-shaped AI tooling.
 
@@ -35,4 +35,3 @@ https://github.com/Daniel5569/stateful-agentic-sandbox-orchestrator
 - LLM-adjacent backend systems with verifiable execution and audit trails
 - PostgreSQL-first data modeling and integrity constraints
 - Dockerized developer environments and CI-tested workflows
-
