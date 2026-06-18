@@ -4,6 +4,8 @@ Full-stack engineer building **production-shaped AI infrastructure**: async agen
 
 Every project here is a public proof of work — small enough to inspect end-to-end, but built with the same control-plane boundaries used in production AI companies.
 
+> **Open to contracts and full-time roles** in AI infrastructure, agentic backend systems, and production AI tooling. → simbalanani@gmail.com
+
 ---
 
 ## Portfolio
