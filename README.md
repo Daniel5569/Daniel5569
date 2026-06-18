@@ -33,7 +33,7 @@ Async document ingestion for contracts, claims, and invoices. Typed extraction e
 ---
 
 ### 3. CRM Revenue Ops Agent Workflow
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+[![CI](https://github.com/Daniel5569/revenue-ops-agent-workflow/actions/workflows/ci.yml/badge.svg)](https://github.com/Daniel5569/revenue-ops-agent-workflow/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 Policy-gated CRM automation: SHA-256 content-addressed idempotency, three-tier action classification (auto_safe / requires_approval / blocked), and an immutable pre-response audit log. 12 passing tests.
 
@@ -43,7 +43,7 @@ Policy-gated CRM automation: SHA-256 content-addressed idempotency, three-tier a
 ---
 
 ### 4. LLM Evaluation & Observability Platform
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+[![CI](https://github.com/Daniel5569/llm-evaluation-observability-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Daniel5569/llm-evaluation-observability-platform/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 Release-gate dashboard for prompt quality: pass rates, regression detection, severity classification, latency, cost, human review queue, and deployment recommendations — all as pure functions with Vitest coverage.
 
@@ -53,7 +53,7 @@ Release-gate dashboard for prompt quality: pass rates, regression detection, sev
 ---
 
 ### 5. Security Compliance Evidence Automation (EvidenceOps)
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+[![CI](https://github.com/Daniel5569/security-compliance-evidence-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/Daniel5569/security-compliance-evidence-automation/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 SOC 2 / ISO 27001 / customer review ops console: reviewer workflow, gap analysis, hash-chained tamper-evident audit trail, and package builder. Designed for compliance teams managing multiple frameworks simultaneously.
 
@@ -63,7 +63,7 @@ SOC 2 / ISO 27001 / customer review ops console: reviewer workflow, gap analysis
 ---
 
 ### 6. Ops Workflow Automation Platform
-![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+[![CI](https://github.com/Daniel5569/ops-workflow-automation-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Daniel5569/ops-workflow-automation-platform/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 
 Centralized queue for vendor approvals, customer escalations, and invoice exceptions. AI recommendations, human review gate, Zod-validated API, and PostgreSQL audit log. Gateway → Redis Streams → Python FastAPI worker.
 
